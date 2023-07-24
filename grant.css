@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    padding: 20px;
+    background-color: rgb(213, 210, 210);
+}
+
+.header img {
+    width: 100%;
+}
+
+.header2 {
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+img {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.headertexts {
+    border: solid 1px white;
+    background-color: white;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.headertexts p {
+    padding: 10px;
+    font-size: 13px;
+}
+
+.headertexts h2 {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.headertexts h3 {
+    margin-top: 2rem;
+}
+
+form {
+    margin: 20px;
+    text-align: left;
+    color: blue;
+}
+input {
+    padding: 4px;
+    width: 100%;
+    border: 2px solid #bdbcbc;
+}
+
+input[type='radio']{
+    width: auto;
+}
+input[type='checkbox']{
+    width: auto;
+}
+
+textarea {
+    padding: 4px;
+    width: 100%;
+    border: 2px solid #bdbcbc; 
+}
+.label, .label-2, .label-3, .label-4, .label-5, .label-6, .label-7,.label-8 ,.label-9,.label-10,.label-11,.label-12,.label-13,.label-14,.label-15 {
+    margin-top: 20px;
+}
+
+label{
+    margin-right: 1rem;
+}
+
+#Gender {
+    padding: 4px;
+    width: 100%;
+    border:  2px solid #bdbcbc;
+}
+
+
+button {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 255, 0.712);
+    margin-top: 20px;
+    border: 2px solid #bdbcbc;
+    padding: 10px;
+    width: 100%;
+}
